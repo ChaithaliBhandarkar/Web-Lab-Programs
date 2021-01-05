@@ -1,0 +1,30 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<STUDENTDATA>
+       <STUDENT>
+	             <USN>USN   : 4MT17IS012</USN>
+				 <NAME>NAME : CHAITHALI BHANDARKAR </NAME>
+				 <COLLEGE>COLLEGE : MITE </COLLEGE>
+				 <BRANCH>BRANCH : ISE</BRANCH>
+				 <YEAR>YEAR : 2017 </YEAR>
+				 <EMAIL>E-MAIL :chaithali3107@gmail.com</EMAIL>
+	    </STUDENT>
+		<STUDENT>
+		         <USN>USN : 4MT17IS011 </USN>
+				 <NAME>NAME : BHAVYATHA </NAME>
+				 <COLLEGE>COLLEGE : MITE </COLLEGE>
+				 <BRANCH>BRANCH : ISE</BRANCH>
+				 <YEAR>YEAR : 2017 </YEAR>
+				 <EMAIL>E-MAIL :bhavyathashetty@gmail.com</EMAIL>
+		</STUDENT>
+		<STUDENT>
+		         <USN>USN : 4MT17IS013 </USN>
+				 <NAME>NAME : DEEKSHA </NAME>
+				 <COLLEGE>COLLEGE : MITE </COLLEGE>
+				 <BRANCH>BRANCH : ISE</BRANCH>
+				 <YEAR>YEAR : 2017 </YEAR>
+				 <EMAIL>E-MAIL :deekshasuvarna@gmail.com</EMAIL>
+		</STUDENT>
+</STUDENTDATA>
+
+		
+		
